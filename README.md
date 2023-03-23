@@ -4,7 +4,7 @@ Hi, I'm Ivan. Last year I graduated with a Bachelor of Computer Science and deci
 * HTML5
 * CSS3
 * Javascript
-* Typescript
+* TypeScript
 * React
 * Next.js
 
