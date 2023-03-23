@@ -11,7 +11,7 @@ Hi, I'm Ivan. Last year I graduated with a Bachelor of Computer Science and deci
 In this GitHub profile you will find some of my projects that cover important topics during the course.
 
 * 💻 Looking for: Junior Frontend Developer position 
-* 📭 You can reach me via: [LinkedIn](https://www.linkedin.com/in/baklan-ivan/)|[Email](ivanbaklan6@gmail.com)
+* 📭 You can reach me via: [LinkedIn](https://www.linkedin.com/in/baklan-ivan/) | [Email](ivanbaklan6@gmail.com)
 * 📌 Current location: Poland, Poznań
 * 🚀 Available for: Fully Remote | Relocation | On-site (Poznań)
 
