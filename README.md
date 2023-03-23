@@ -15,5 +15,5 @@ In this GitHub profile you will find some of my projects that cover important to
 * 📌 Current location: Poland, Poznań
 * 🚀 Available for: Fully Remote | Relocation | On-site (Poznań)
 
- 
-
+ ## 📊 My GitHub stats
+[![Ivan's stats](https://github-readme-stats.vercel.app/api?username=Ivan-Baklan&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
